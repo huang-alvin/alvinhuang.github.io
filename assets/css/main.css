@@ -3940,3 +3940,8 @@ video {
 .resume-img {
   height: 90%;
 }
+.contacts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
